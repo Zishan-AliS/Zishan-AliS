@@ -1,7 +1,7 @@
-<!-- 🌟 Modern GitHub Profile README for Zeshan Ali 🌟 -->
+<!-- 🌟 Modern GitHub Profile README for Zishan Ali 🌟 -->
 
-<h1 align="center">Hi there 👋, I'm Zeshan Ali</h1>
-<h3 align="center">💻 Machine Learning Engineer | 🚀 Deep Learniing Expert | Oracle Apex | Google Certified Data Analyst  </h3>
+<h1 align="center">Hi there 👋, I'm Zishan Ali</h1>
+<h3 align="center">💻 AI Developer | 🚀 Machine Learning & Data Science Enthusiast | Oracle Cloud Certified | Python & Flask Expert</h3>
 
 <p align="center">
   <img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" width="100%" alt="banner" />
@@ -11,36 +11,41 @@
 
 ### 🌟 Welcome to My Git World
 
-> I’m passionate about empowering **new coders** through accessible learning and building AI-driven solutions that make a difference.
+> I’m passionate about empowering **new coders** through accessible learning and building **AI-driven applications** that make a real-world impact.
 
 ---
 
 ### 🧠 About Me
-- 🔭 Working on: **Cancer Detection using Tongue Image Classification**  
-- 🌱 Exploring: **LLMs** and **Mojo Language**  
-- 🗣️ Ask me about: **Python**, **Data Science**, **Machine Learning**, **Student Wellness**, **Counselling**  
-- ⚡ Fun fact: *I believe in simplicity — both in life and code.*
+- 🎓 MSCS Student at **Superior University**
+- 🔭 Working on: **Flask-based Plant Disease Detection System**
+- 🌱 Exploring: **Large Language Models (LLMs)** & **Generative AI**
+- 🗣️ Ask me about: **Python**, **Machine Learning**, **Flask**, **TensorFlow**, **MongoDB**, **Redis**
+- 🪙 Certification: *Oracle Cloud Infrastructure 2024 Generative AI Certified Professional*
+- ⚡ Fun fact: *I believe in simplicity — both in life and in code.*
 
 ---
 
-### 👁️‍🗨️ Profile Views
+### 🕰️ My GitHub Journey
+> My earlier contributions and foundational projects were on my old account:  
+> 🔗 [github.com/Zeshan-Ali](https://github.com/Zeshan-Ali) *(now inactive due to authentication issues)*  
+> This new profile continues my journey with even more exciting projects and collaborations.
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeshan-Ali&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zishan-AliS&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeshan-Ali&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffcc70&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zishan-AliS&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffcc70&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeshan-Ali&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeshan-Ali&theme=tokyonight&utcOffset=5" alt="Commits by Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zishan-AliS&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zishan-AliS&theme=tokyonight&utcOffset=5" alt="Commits by Time" />
 </p>
-
 
 ---
 
@@ -52,7 +57,7 @@
 
 ### 🖥️ Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind" alt="Frontend Skills" />
 </p>
 
 </td>
@@ -60,9 +65,9 @@
 
 ### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,postgresql,sqlite" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql,sqlite" alt="Backend Skills" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,r,powerbi" alt="Data & ML" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,opencv,r,powerbi" alt="Data & ML" />
 </p>
 
 </td>
@@ -70,7 +75,7 @@
 
 ### ☁️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,git,docker" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,docker" alt="DevOps Skills" />
 </p>
 
 </td>
@@ -98,7 +103,7 @@
 <p align="center">
   <a href="https://www.facebook.com/ZishRaaj"><img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.kaggle.com/zeshanali"><img src="https://img.shields.io/badge/Kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://github.com/Zeshan-Ali"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Zishan-AliS"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/zeshanalishoban"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/zeeshanalishoban"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/ibne_shoban"><img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -106,17 +111,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeshan-Ali&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeshan-Ali&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zishan-AliS&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zishan-AliS&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeshan-Ali&theme=onedark&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zishan-AliS&theme=onedark&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
