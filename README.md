@@ -1,7 +1,7 @@
 <!-- 🌟 Modern GitHub Profile README for Zishan Ali 🌟 -->
 
 <h1 align="center">Hi there 👋, I'm Zishan Ali</h1>
-<h3 align="center">💻 AI Developer | 🚀 Machine Learning & Data Science Enthusiast | Oracle Cloud Certified | Python & Flask Expert</h3>
+<h3 align="center">💻 AI Developer | 🚀 Machine Learning & Data Science Enthusiast | Google Certified Data Analyst| Oracle Cloud Certified | Python | Django |Flask Expert</h3>
 
 <p align="center">
   <img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" width="100%" alt="banner" />
