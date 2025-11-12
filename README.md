@@ -1,7 +1,7 @@
 <!-- 🌟 Modern GitHub Profile README for Zeshan Ali 🌟 -->
 
 <h1 align="center">Hi there 👋, I'm Zeshan Ali</h1>
-<h3 align="center">💻 Machine Learning Expert | 🚀 Founder of a Software Agency in Pakistan</h3>
+<h3 align="center">💻 Machine Learning Engineer | 🚀 Deep Learniing Expert | Oracle Apex | Google Certified Data Analyst  </h3>
 
 <p align="center">
   <img src="https://github.com/Zeshan-Ali/Zeshan-Ali/blob/main/linked.jfif" width="100%" alt="banner" />
@@ -24,9 +24,23 @@
 ---
 
 ### 👁️‍🗨️ Profile Views
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Zeshan-Ali/count.svg?" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeshan-Ali&theme=tokyonight" alt="Profile Summary"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeshan-Ali&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffcc70&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeshan-Ali&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeshan-Ali&theme=tokyonight&utcOffset=5" alt="Commits by Time" />
+</p>
+
 
 ---
 
