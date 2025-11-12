@@ -20,7 +20,7 @@
 - 🔭 Working on: **Flask-based Plant Disease Detection System**
 - 🌱 Exploring: **Large Language Models (LLMs)** & **Generative AI**
 - 🗣️ Ask me about: **Python**, **Machine Learning**, **Flask**, **TensorFlow**, **MongoDB**, **Redis**
-- 🪙 Certification: *Oracle Cloud Infrastructure 2024 Generative AI Certified Professional*
+- 🪙 Certification: *Oracle Cloud Infrastructure 2024 Generative AI Certified Professional* , *Google Certified Data Analyst*
 - ⚡ Fun fact: *I believe in simplicity — both in life and in code.*
 
 ---
