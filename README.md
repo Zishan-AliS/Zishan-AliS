@@ -83,14 +83,16 @@
 
 <tr>
 <td colspan="3" align="center">
-
 ### 🧱 Big Data & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,redis" height="45" alt="MongoDB Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Neo4j-logo_color.png" height="45" alt="Neo4j" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="45" alt="Neo4j" />
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="45" alt="Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="45" alt="Cassandra" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arango/arango-original.svg" height="45" alt="ArangoDB" />
 </p>
+
 
 </td>
 </tr>
